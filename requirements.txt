@@ -1,5 +1,8 @@
 python-dotenv
-fastapi
+pymongo
 pandas
 numpy
-uvicorn
+certifi
+
+
+## -e.
