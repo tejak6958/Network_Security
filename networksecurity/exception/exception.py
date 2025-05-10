@@ -1,7 +1,7 @@
 import sys
 from networksecurity.logging import logger
 
-class NetwworkSecurityException(Exception):
+class NetworkSecurityException(Exception):
     """Base class for all exceptions raised by the Network Security module."""
     def __init__(self, error_message,error_details:sys):
         def __init__(self, error_message, error_details:sys):
