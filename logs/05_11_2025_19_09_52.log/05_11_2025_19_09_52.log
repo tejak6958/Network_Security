@@ -1,0 +1,5 @@
+[ 2025-05-11 19:09:56,642 ] 66 root - INFO - Performed train test split on the dataframe
+[ 2025-05-11 19:09:56,646 ] 68 root - INFO - Exited split_data_as_train_test method of Data_Ingestion class
+[ 2025-05-11 19:09:56,925 ] 76 root - INFO - Exporting train and test file path.
+[ 2025-05-11 19:10:00,513 ] 85 root - INFO - Exported train and test file path.
+[ 2025-05-11 19:10:00,513 ] 17 root - INFO - DataIngestionArtifact(trained_file_path='Artifacts\\05_11_2025_19_09_52\\data_ingestion\\ingested\\train.csv', test_file_path='Artifacts\\05_11_2025_19_09_52\\data_ingestion\\ingested\\test.csv')
